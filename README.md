@@ -1,2 +1,2 @@
 # Upgrade
-Upgrade functionality
+This is just to test upgrade functionality in Blogifier, please ignore.
